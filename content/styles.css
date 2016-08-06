@@ -1,0 +1,12 @@
+.login {
+  margin: 5em auto; }
+
+.mdl-button--raised.mdl-button--colored {
+  background-color: #37385E; }
+  .mdl-button--raised.mdl-button--colored:active, .mdl-button--raised.mdl-button--colored:focus {
+    background-color: #24253e; }
+
+body {
+  background-color: #5D5F9E; }
+
+/*# sourceMappingURL=styles.css.map */

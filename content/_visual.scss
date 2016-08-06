@@ -1,0 +1,13 @@
+//MDL CLASS RESET
+.mdl-button--raised.mdl-button--colored{
+    background-color: $secondary;
+
+    &:active,&:focus{
+        background-color: darken($secondary, 10%);
+    }
+}
+
+//TAGS
+body{
+    background-color: $primary;
+}
